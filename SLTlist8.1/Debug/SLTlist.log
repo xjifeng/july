@@ -1,0 +1,4 @@
+﻿  Test.c
+C:\Users\xuqif\source\repos\SLTlist\Test.c(13,23): warning C4047: 'function': 'SLTNode **' differs in levels of indirection from 'SLTNode *'
+C:\Users\xuqif\source\repos\SLTlist\Test.c(13,19): warning C4024: 'SListInsertAfter': different types for formal and actual parameter 1
+  SLTlist.vcxproj -> C:\Users\xuqif\source\repos\SLTlist\Debug\SLTlist.exe
